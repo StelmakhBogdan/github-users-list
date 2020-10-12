@@ -1,0 +1,8 @@
+export const FETCH_USERS = 'FETCH_USERS';
+export const FETCH_USERS_ERROR = 'FETCH_USERS_ERROR';
+
+export const FETCH_USER_DETAIL = 'FETCH_USER_DETAIL';
+export const FETCH_USER_DETAIL_ERROR = 'FETCH_USER_DETAIL_ERROR';
+
+// export const SHOW_LOADER = 'SHOW_LOADER';
+// export const HIDE_LOADER = 'HIDE_LOADER';
